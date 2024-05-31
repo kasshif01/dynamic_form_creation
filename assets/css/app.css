@@ -1,0 +1,13 @@
+.error-message{
+    display: none;
+}
+
+.error .error-message{
+    display: block;
+    color: red;
+    padding-top: 6px;
+}
+
+.error .form-control{
+    border-color: red;
+}
